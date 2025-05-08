@@ -39,6 +39,6 @@ Below is where the fun stuff begins. As of now, I have a list of two group proje
 - After performing the preprocessing, we did extensive analysis and took considerable time experimenting ultimately settling on a model created through Random Forest. The exact specifications of this project are detailed in a paper (also seen in the GitHub repository).
 - In all, this project served as an incredible baseline to understanding data mining practices, experiemntation, and the overall process. This was incredibly challenging but taught myself and my group much about how this field works. In the future, I'd like to further my skills in this field, diving deeper into the algorithms and applications (like Tableau) that served as great aids in this project.
 
-**## Involvements**
+## Involvements
 **Risk Manager + Standards Chair @ Pi Kappa Phi**
 Led a risk management team while collaborating with the executive board and national representations, showing leadership and interpersonal skills in a 60+ member organization.
