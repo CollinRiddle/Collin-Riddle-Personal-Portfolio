@@ -1,7 +1,7 @@
 # Computer Science Student
 
 ### Contacts
-Please feel free to reach out! Find me on [LinkedIn](www.linkedin.com/in/collin-riddle-furman) or email me at mr5542015@gmail.com!
+Please feel free to reach out! Find me on [LinkedIn](www.linkedin.com/in/collin-riddle-furman)!
 
 ## About Me
 Hello and welcome to my portfolio! My name is Collin Riddle and I'm a Computer Science major with a minor in Data Analytics at Furman University. I'm a driven student with a passion anything Computer Science related, whether that be in the classroom or out in my personal time working on projects. I am currently focusing my academics towards the data sector (ex., development and analytics) as I have developed a passion for problem solving, identifying trends, protecting data, and utilizing my intuition to find solutions to unique problems. I have strong experience in several programming languages and other necessary applications which allows me to communicate and work efficiently. I'm constantly looking for more opportunities to be involved on my campus, find leadership opportunities, and grow as a student.
